@@ -17,7 +17,7 @@ function Card(name, address, work, home){
 
 // Create the Objects
 sue = new Card("Sue Suthers", "123 Elm Street", "555-1234", "555-4444");
-phred = new Card("Phred Madsen", "233 Oak Lane", "555-2222", "555-9876");
+phred = new Card("Phred Madden", "233 Oak Lane", "555-2222", "555-9876");
 henry = new Card("Henry Tillman", "233 Walnut Circle", "555-1299", "555-1344");
 
 // And print them
